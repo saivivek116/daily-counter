@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vangavetisaivivek.github.io/daily-counter",
+  "homepage": "https://saivivek116.github.io/daily-counter",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
